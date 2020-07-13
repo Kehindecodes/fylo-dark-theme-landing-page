@@ -107,7 +107,7 @@ body {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #339ecc;
+  background: #65e2d9;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -123,8 +123,8 @@ body {
 }
 
 .back-to-top .svg {
-  -webkit-filter: invert(96%) sepia(4%) saturate(0%) hue-rotate(344deg) brightness(106%) contrast(106%);
-          filter: invert(96%) sepia(4%) saturate(0%) hue-rotate(344deg) brightness(106%) contrast(106%);
+  -webkit-filter: invert(8%) sepia(27%) saturate(977%) hue-rotate(177deg) brightness(91%) contrast(90%);
+          filter: invert(8%) sepia(27%) saturate(977%) hue-rotate(177deg) brightness(91%) contrast(90%);
   margin-top: 6px;
 }
 
